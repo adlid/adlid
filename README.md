@@ -12,8 +12,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![C#]
+- 💻 &nbsp;[C#]
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -29,24 +28,18 @@
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+- 🖥 &nbsp;[Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Контакты </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/azimbek0vich08/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:baidildaevbahon08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/azimbek0vich08/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-azimbek0vich08-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:baidildaevbahon08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-baidildaevbahon08@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
