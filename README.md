@@ -1,14 +1,14 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.psprices.com%2Fregion-us%2Fgame%2F2982698%2Fhitman-cat-avatar&psig=AOvVaw3g-BCBiaNKUydNfvyBjB-O&ust=1626887192321000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDJn56R8vECFQAAAAAdAAAAABAJ">
+<img src="">
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Я Азимбекулы Бакдаулет.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;Про меня </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Постоянное желание осваивать новые технологии и инструменты.
+- 🎓 &nbsp; ВТиПО СДУ.
+- 💼 &nbsp; Работал Фронтенд разработчиком в WFF devolopment.
+- 🌱 &nbsp; Умение работать в команде.
+- ✍️ &nbsp; Творческие способности.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
